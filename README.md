@@ -1,2 +1,2 @@
 # DSA-Labsheets
-contains solutions to the labsheets of DSA course of BITS PILANI
+contains solutions to the labsheets of DSA course, BITS PILANI
